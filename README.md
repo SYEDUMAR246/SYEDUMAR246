@@ -76,7 +76,7 @@
 
 ### 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=hSYEDUMAR246&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=SYEDUMAR246&color=blue&style=flat-square)
 
 ---
 
