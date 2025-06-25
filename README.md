@@ -68,10 +68,10 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoorain17&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SYEDUMAR246&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoorain17&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SYEDUMAR246&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -79,7 +79,7 @@
 
 ### 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=hoorain17&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=hSYEDUMAR246&color=blue&style=flat-square)
 
 ---
 
